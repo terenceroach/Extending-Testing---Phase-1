@@ -1,4 +1,4 @@
-**State Transation Diagram**
+**State Transition Diagram**
 ---
 ![](State%20Transition%20Diagram.png)
 
