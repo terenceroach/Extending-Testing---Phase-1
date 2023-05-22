@@ -1,10 +1,13 @@
-State Transation Diagram
+**State Transation Diagram**
+---
 ![](State%20Transition%20Diagram.png)
 
-State Transition Table
+**State Transition Table**
+---
 ![](State_Transition_Table.png)
 
-Test case
+**Test case**
+---
 * Start: Sign-up page
 * Sign-up => Sign-up with invalid combinations
 * Sign-up => Log in
